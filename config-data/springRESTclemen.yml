@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: SpringRESTclemen
+    name: springRESTclemen
   h2:
     console:
       settings:
